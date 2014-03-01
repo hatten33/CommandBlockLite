@@ -1,0 +1,6 @@
+name: CommandBlockLite
+version: 1.0 (MC 1.7.2)
+description: blocks configurable commands
+author: hatten33
+ 
+main: net.aerenserve.commandblock.CommandBlock
